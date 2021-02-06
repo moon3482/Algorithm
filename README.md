@@ -1,2 +1,2 @@
-# Algorithm
-Algorithm Problem
+#LeetCode Algorithm
+LeetCode Algorithm Problem
