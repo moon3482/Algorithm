@@ -1,3 +1,3 @@
-#LeetCode Algorithm
+# LeetCode Algorithm
 
-###LeetCode Algorithm Problem
+### LeetCode Algorithm Problem
